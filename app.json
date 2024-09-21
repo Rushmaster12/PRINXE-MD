@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️Prince"
+      "value": "917020728211;❣️Prince"
       },
      "MODE": {
       "description": "mode public or private",
@@ -29,7 +29,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -64,7 +64,7 @@
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
       "required": false,
-      "value": "false"
+      "value": "true"
       },
     "Status_Saver": {
       "description": "Make it true if you want the bot to auto save your contacts status",
@@ -84,7 +84,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~9pwUVLJS#8IWDTuMpG2gqXTnVS01LFnxMY-5pyIin9Zn5qr76xe0"
     }
     
    
